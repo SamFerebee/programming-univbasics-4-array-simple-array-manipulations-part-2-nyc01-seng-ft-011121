@@ -6,6 +6,8 @@ def using_insert (arr, ele)
   arr.insert(4, ele)
 end
 
+using
+
 def using_delete(arr, str)
   arr.delete(str)
 end
